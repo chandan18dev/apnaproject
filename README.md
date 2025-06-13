@@ -3,4 +3,4 @@ git repository
 <br>
 Author - chandan pradhan(developer)
 <br>
-Teacher- Shradha Khapra
+Teacher- Shradha Khapra(Ex-Microsoft)
